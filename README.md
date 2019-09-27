@@ -1,1 +1,1 @@
-"# SPEC" 
+spec file to soft
